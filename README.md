@@ -29,7 +29,7 @@ This architecture strictly adheres to the SmartInternz workspace requirements fo
 Restaurant_Recommendation_System/
 │
 ├── Dataset/
-│   └── zomato.csv                         # Raw dataset from Kaggle
+│   └── zomato.csv(Kaggle Link)                         # Raw dataset from Kaggle
 │
 ├── Document/
 │   └── RESTAURANT_RECOMMENDATION_SYSTEM.docx  # Final Project Report
